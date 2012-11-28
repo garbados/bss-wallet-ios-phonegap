@@ -29,7 +29,7 @@
 	<key>ExternalHosts</key>
 	<array>
 	<key>LocalHost</key>
-	<string>localhost</string>
+	<string>*</string>
 	</array>
 	<key>Plugins</key>
 	<dict>
