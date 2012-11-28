@@ -28,7 +28,8 @@
 	<string>cloud</string>
 	<key>ExternalHosts</key>
 	<array>
-		<string>localhost:3000</string>
+	<key>LocalHost</key>
+	<string>localhost</string>
 	</array>
 	<key>Plugins</key>
 	<dict>
